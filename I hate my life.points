@@ -1,0 +1,8 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:Bones,x:-221,z:81,y:68,enabled:true,red:0.9607843,green:1.0,blue:0.99607843,suffix:axe,world:,dimensions:overworld#
+name:Latest Death,x:-96,z:-87,y:75,enabled:true,red:1.0,green:1.0,blue:1.0,suffix:skull,world:,dimensions:overworld#
+name:maHOME,x:-91,z:-89,y:79,enabled:true,red:0.08627451,green:0.9098039,blue:0.0,suffix:house,world:,dimensions:overworld#
+name:pool,x:-271,z:-16,y:64,enabled:true,red:0.5425412,green:0.8113605,blue:0.8208313,suffix:,world:,dimensions:overworld#
+name:test,x:-1484,z:196,y:71,enabled:true,red:0.89641505,green:0.5548061,blue:0.15549016,suffix:,world:,dimensions:overworld#
